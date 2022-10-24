@@ -1,5 +1,4 @@
-# spaceshift
-my moo
-my first resporitory
-i love coffe ⚽ 🇿🇦 🏊:.
-
+# hello_world
+my first resporitory on Github
+hello_world
+i love 💻: 🇿🇦:. 🤗
